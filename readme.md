@@ -1,5 +1,3 @@
 # INTEGER
 
 # GG
-
-# FUCK
