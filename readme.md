@@ -2,4 +2,4 @@
 
 # GG
 
-# merge conflict
+# merge conflicts
